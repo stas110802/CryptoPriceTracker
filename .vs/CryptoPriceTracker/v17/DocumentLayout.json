@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\CryptoPriceTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4379834-E7CB-4BC7-BCD6-C6743AE01F95}|src\\Infrastructure\\CryptoPriceTracker.Infrastructure\\CryptoPriceTracker.Infrastructure.csproj|d:\\projects\\cryptopricetracker\\src\\infrastructure\\cryptopricetracker.infrastructure\\exchangeclients\\socket\\bitgetwebsocketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4379834-E7CB-4BC7-BCD6-C6743AE01F95}|src\\Infrastructure\\CryptoPriceTracker.Infrastructure\\CryptoPriceTracker.Infrastructure.csproj|solutionrelative:src\\infrastructure\\cryptopricetracker.infrastructure\\exchangeclients\\socket\\bitgetwebsocketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4379834-E7CB-4BC7-BCD6-C6743AE01F95}|src\\Infrastructure\\CryptoPriceTracker.Infrastructure\\CryptoPriceTracker.Infrastructure.csproj|d:\\projects\\cryptopricetracker\\src\\infrastructure\\cryptopricetracker.infrastructure\\exchangeclients\\socket\\binancewebsocketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4379834-E7CB-4BC7-BCD6-C6743AE01F95}|src\\Infrastructure\\CryptoPriceTracker.Infrastructure\\CryptoPriceTracker.Infrastructure.csproj|solutionrelative:src\\infrastructure\\cryptopricetracker.infrastructure\\exchangeclients\\socket\\binancewebsocketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A1049A-F7AF-4703-A8A3-B308B9306028}|src\\Core\\CryptoPriceTracker.Domain\\CryptoPriceTracker.Domain.csproj|d:\\projects\\cryptopricetracker\\src\\core\\cryptopricetracker.domain\\isocketexchangeclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A1049A-F7AF-4703-A8A3-B308B9306028}|src\\Core\\CryptoPriceTracker.Domain\\CryptoPriceTracker.Domain.csproj|solutionrelative:src\\core\\cryptopricetracker.domain\\isocketexchangeclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4379834-E7CB-4BC7-BCD6-C6743AE01F95}|src\\Infrastructure\\CryptoPriceTracker.Infrastructure\\CryptoPriceTracker.Infrastructure.csproj|d:\\projects\\cryptopricetracker\\src\\infrastructure\\cryptopricetracker.infrastructure\\exchangeclients\\binanceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4379834-E7CB-4BC7-BCD6-C6743AE01F95}|src\\Infrastructure\\CryptoPriceTracker.Infrastructure\\CryptoPriceTracker.Infrastructure.csproj|solutionrelative:src\\infrastructure\\cryptopricetracker.infrastructure\\exchangeclients\\binanceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A1049A-F7AF-4703-A8A3-B308B9306028}|src\\Core\\CryptoPriceTracker.Domain\\CryptoPriceTracker.Domain.csproj|d:\\projects\\cryptopricetracker\\src\\core\\cryptopricetracker.domain\\irestexchangeclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A1049A-F7AF-4703-A8A3-B308B9306028}|src\\Core\\CryptoPriceTracker.Domain\\CryptoPriceTracker.Domain.csproj|solutionrelative:src\\core\\cryptopricetracker.domain\\irestexchangeclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A1049A-F7AF-4703-A8A3-B308B9306028}|src\\Core\\CryptoPriceTracker.Domain\\CryptoPriceTracker.Domain.csproj|d:\\projects\\cryptopricetracker\\src\\core\\cryptopricetracker.domain\\models\\exchangeprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A1049A-F7AF-4703-A8A3-B308B9306028}|src\\Core\\CryptoPriceTracker.Domain\\CryptoPriceTracker.Domain.csproj|solutionrelative:src\\core\\cryptopricetracker.domain\\models\\exchangeprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A1049A-F7AF-4703-A8A3-B308B9306028}|src\\Core\\CryptoPriceTracker.Domain\\CryptoPriceTracker.Domain.csproj|d:\\projects\\cryptopricetracker\\src\\core\\cryptopricetracker.domain\\ipriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A1049A-F7AF-4703-A8A3-B308B9306028}|src\\Core\\CryptoPriceTracker.Domain\\CryptoPriceTracker.Domain.csproj|solutionrelative:src\\core\\cryptopricetracker.domain\\ipriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F66980-1239-4E6F-AD29-EAE6BDF85CA3}|src\\Presentation\\CryptoPriceTracker.WinForms\\CryptoPriceTracker.WinForms.csproj|d:\\projects\\cryptopricetracker\\src\\presentation\\cryptopricetracker.winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F66980-1239-4E6F-AD29-EAE6BDF85CA3}|src\\Presentation\\CryptoPriceTracker.WinForms\\CryptoPriceTracker.WinForms.csproj|solutionrelative:src\\presentation\\cryptopricetracker.winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F66980-1239-4E6F-AD29-EAE6BDF85CA3}|src\\Presentation\\CryptoPriceTracker.WinForms\\CryptoPriceTracker.WinForms.csproj|d:\\projects\\cryptopricetracker\\src\\presentation\\cryptopricetracker.winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3F66980-1239-4E6F-AD29-EAE6BDF85CA3}|src\\Presentation\\CryptoPriceTracker.WinForms\\CryptoPriceTracker.WinForms.csproj|solutionrelative:src\\presentation\\cryptopricetracker.winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F66980-1239-4E6F-AD29-EAE6BDF85CA3}|src\\Presentation\\CryptoPriceTracker.WinForms\\CryptoPriceTracker.WinForms.csproj|d:\\projects\\cryptopricetracker\\src\\presentation\\cryptopricetracker.winforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F66980-1239-4E6F-AD29-EAE6BDF85CA3}|src\\Presentation\\CryptoPriceTracker.WinForms\\CryptoPriceTracker.WinForms.csproj|solutionrelative:src\\presentation\\cryptopricetracker.winforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8532937-438C-4EEE-92BF-69B0FAA33D67}|src\\Core\\CryptoPriceTracker.Application\\CryptoPriceTracker.Application.csproj|d:\\projects\\cryptopricetracker\\src\\core\\cryptopricetracker.application\\priceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8532937-438C-4EEE-92BF-69B0FAA33D67}|src\\Core\\CryptoPriceTracker.Application\\CryptoPriceTracker.Application.csproj|solutionrelative:src\\core\\cryptopricetracker.application\\priceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BitgetWebSocketClient.cs",
+              "DocumentMoniker": "D:\\projects\\CryptoPriceTracker\\src\\Infrastructure\\CryptoPriceTracker.Infrastructure\\ExchangeClients\\Socket\\BitgetWebSocketClient.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\CryptoPriceTracker.Infrastructure\\ExchangeClients\\Socket\\BitgetWebSocketClient.cs",
+              "ToolTip": "D:\\projects\\CryptoPriceTracker\\src\\Infrastructure\\CryptoPriceTracker.Infrastructure\\ExchangeClients\\Socket\\BitgetWebSocketClient.cs",
+              "RelativeToolTip": "src\\Infrastructure\\CryptoPriceTracker.Infrastructure\\ExchangeClients\\Socket\\BitgetWebSocketClient.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T20:27:33.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BinanceWebSocketClient.cs",
+              "DocumentMoniker": "D:\\projects\\CryptoPriceTracker\\src\\Infrastructure\\CryptoPriceTracker.Infrastructure\\ExchangeClients\\Socket\\BinanceWebSocketClient.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\CryptoPriceTracker.Infrastructure\\ExchangeClients\\Socket\\BinanceWebSocketClient.cs",
+              "ToolTip": "D:\\projects\\CryptoPriceTracker\\src\\Infrastructure\\CryptoPriceTracker.Infrastructure\\ExchangeClients\\Socket\\BinanceWebSocketClient.cs",
+              "RelativeToolTip": "src\\Infrastructure\\CryptoPriceTracker.Infrastructure\\ExchangeClients\\Socket\\BinanceWebSocketClient.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T20:23:28.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExchangePrice.cs",
+              "DocumentMoniker": "D:\\projects\\CryptoPriceTracker\\src\\Core\\CryptoPriceTracker.Domain\\Models\\ExchangePrice.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CryptoPriceTracker.Domain\\Models\\ExchangePrice.cs",
+              "ToolTip": "D:\\projects\\CryptoPriceTracker\\src\\Core\\CryptoPriceTracker.Domain\\Models\\ExchangePrice.cs",
+              "RelativeToolTip": "src\\Core\\CryptoPriceTracker.Domain\\Models\\ExchangePrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T20:20:32.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISocketExchangeClient.cs",
+              "DocumentMoniker": "D:\\projects\\CryptoPriceTracker\\src\\Core\\CryptoPriceTracker.Domain\\ISocketExchangeClient.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CryptoPriceTracker.Domain\\ISocketExchangeClient.cs",
+              "ToolTip": "D:\\projects\\CryptoPriceTracker\\src\\Core\\CryptoPriceTracker.Domain\\ISocketExchangeClient.cs",
+              "RelativeToolTip": "src\\Core\\CryptoPriceTracker.Domain\\ISocketExchangeClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T20:13:42.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRestExchangeClient.cs",
+              "DocumentMoniker": "D:\\projects\\CryptoPriceTracker\\src\\Core\\CryptoPriceTracker.Domain\\IRestExchangeClient.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CryptoPriceTracker.Domain\\IRestExchangeClient.cs",
+              "ToolTip": "D:\\projects\\CryptoPriceTracker\\src\\Core\\CryptoPriceTracker.Domain\\IRestExchangeClient.cs",
+              "RelativeToolTip": "src\\Core\\CryptoPriceTracker.Domain\\IRestExchangeClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T20:13:16.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPriceService.cs",
+              "DocumentMoniker": "D:\\projects\\CryptoPriceTracker\\src\\Core\\CryptoPriceTracker.Domain\\IPriceService.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CryptoPriceTracker.Domain\\IPriceService.cs",
+              "ToolTip": "D:\\projects\\CryptoPriceTracker\\src\\Core\\CryptoPriceTracker.Domain\\IPriceService.cs",
+              "RelativeToolTip": "src\\Core\\CryptoPriceTracker.Domain\\IPriceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T20:12:57.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\projects\\CryptoPriceTracker\\src\\Presentation\\CryptoPriceTracker.WinForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "src\\Presentation\\CryptoPriceTracker.WinForms\\Form1.Designer.cs",
+              "ToolTip": "D:\\projects\\CryptoPriceTracker\\src\\Presentation\\CryptoPriceTracker.WinForms\\Form1.Designer.cs",
+              "RelativeToolTip": "src\\Presentation\\CryptoPriceTracker.WinForms\\Form1.Designer.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAhwNkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T20:07:02.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BinanceClient.cs",
+              "DocumentMoniker": "D:\\projects\\CryptoPriceTracker\\src\\Infrastructure\\CryptoPriceTracker.Infrastructure\\ExchangeClients\\BinanceClient.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\CryptoPriceTracker.Infrastructure\\ExchangeClients\\BinanceClient.cs",
+              "ToolTip": "D:\\projects\\CryptoPriceTracker\\src\\Infrastructure\\CryptoPriceTracker.Infrastructure\\ExchangeClients\\BinanceClient.cs",
+              "RelativeToolTip": "src\\Infrastructure\\CryptoPriceTracker.Infrastructure\\ExchangeClients\\BinanceClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:58:01.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PriceService.cs",
+              "DocumentMoniker": "D:\\projects\\CryptoPriceTracker\\src\\Core\\CryptoPriceTracker.Application\\PriceService.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CryptoPriceTracker.Application\\PriceService.cs",
+              "ToolTip": "D:\\projects\\CryptoPriceTracker\\src\\Core\\CryptoPriceTracker.Application\\PriceService.cs",
+              "RelativeToolTip": "src\\Core\\CryptoPriceTracker.Application\\PriceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:57:31.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\projects\\CryptoPriceTracker\\src\\Presentation\\CryptoPriceTracker.WinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "src\\Presentation\\CryptoPriceTracker.WinForms\\Form1.cs",
+              "ToolTip": "D:\\projects\\CryptoPriceTracker\\src\\Presentation\\CryptoPriceTracker.WinForms\\Form1.cs",
+              "RelativeToolTip": "src\\Presentation\\CryptoPriceTracker.WinForms\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:40:54.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\projects\\CryptoPriceTracker\\src\\Presentation\\CryptoPriceTracker.WinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "src\\Presentation\\CryptoPriceTracker.WinForms\\Form1.cs",
+              "ToolTip": "D:\\projects\\CryptoPriceTracker\\src\\Presentation\\CryptoPriceTracker.WinForms\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "src\\Presentation\\CryptoPriceTracker.WinForms\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:31:09.277Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
