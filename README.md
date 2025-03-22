@@ -12,7 +12,7 @@ public interface IRestExchangeClient
     ExchangeType GetExchangeType();
 }
 ```
-И WebSocket:
+И WebSocket интерфейсы:
 ```csharp
 public interface ISocketExchangeClient
 {
