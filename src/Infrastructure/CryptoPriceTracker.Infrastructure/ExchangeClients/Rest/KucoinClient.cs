@@ -2,7 +2,7 @@
 using CryptoPriceTracker.Domain.Types;
 using Kucoin.Net.Clients;
 
-namespace CryptoPriceTracker.Infrastructure.ExchangeClients;
+namespace CryptoPriceTracker.Infrastructure.ExchangeClients.Rest;
 
 public sealed class KucoinClient : IRestExchangeClient
 {

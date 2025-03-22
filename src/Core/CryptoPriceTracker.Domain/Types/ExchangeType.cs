@@ -1,4 +1,4 @@
-﻿namespace CryptoPriceTracker.Domain;
+﻿namespace CryptoPriceTracker.Domain.Types;
 
 public enum ExchangeType
 {

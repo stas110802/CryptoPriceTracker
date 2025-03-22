@@ -2,7 +2,7 @@
 using CryptoPriceTracker.Domain;
 using CryptoPriceTracker.Domain.Types;
 
-namespace CryptoPriceTracker.Infrastructure.ExchangeClients;
+namespace CryptoPriceTracker.Infrastructure.ExchangeClients.Rest;
  
 public sealed class BybitClient : IRestExchangeClient
 {

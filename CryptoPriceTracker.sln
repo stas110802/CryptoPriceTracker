@@ -1,8 +1,39 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{0FF591DC-BE60-46D4-9E0D-57A785C0EF88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{BB5EF082-E804-4A03-A7EA-4A9A97D681D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoPriceTracker.Domain", "src\Core\CryptoPriceTracker.Domain\CryptoPriceTracker.Domain.csproj", "{F7A1049A-F7AF-4703-A8A3-B308B9306028}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoPriceTracker.Infrastructure", "src\Infrastructure\CryptoPriceTracker.Infrastructure\CryptoPriceTracker.Infrastructure.csproj", "{E4379834-E7CB-4BC7-BCD6-C6743AE01F95}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{34C61599-22FF-4958-A01D-214596915E43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoPriceTracker.WinForms", "src\Presentation\CryptoPriceTracker.WinForms\CryptoPriceTracker.WinForms.csproj", "{E3F66980-1239-4E6F-AD29-EAE6BDF85CA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F7A1049A-F7AF-4703-A8A3-B308B9306028} = {0FF591DC-BE60-46D4-9E0D-57A785C0EF88}
+		{E4379834-E7CB-4BC7-BCD6-C6743AE01F95} = {BB5EF082-E804-4A03-A7EA-4A9A97D681D8}
+		{E3F66980-1239-4E6F-AD29-EAE6BDF85CA3} = {34C61599-22FF-4958-A01D-214596915E43}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7A1049A-F7AF-4703-A8A3-B308B9306028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A1049A-F7AF-4703-A8A3-B308B9306028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A1049A-F7AF-4703-A8A3-B308B9306028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A1049A-F7AF-4703-A8A3-B308B9306028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4379834-E7CB-4BC7-BCD6-C6743AE01F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4379834-E7CB-4BC7-BCD6-C6743AE01F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4379834-E7CB-4BC7-BCD6-C6743AE01F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4379834-E7CB-4BC7-BCD6-C6743AE01F95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3F66980-1239-4E6F-AD29-EAE6BDF85CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F66980-1239-4E6F-AD29-EAE6BDF85CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F66980-1239-4E6F-AD29-EAE6BDF85CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F66980-1239-4E6F-AD29-EAE6BDF85CA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

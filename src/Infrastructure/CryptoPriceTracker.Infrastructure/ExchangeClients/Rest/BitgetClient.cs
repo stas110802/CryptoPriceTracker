@@ -2,7 +2,7 @@
 using Bitget.Net.Clients;
 using CryptoPriceTracker.Domain;
 
-namespace CryptoPriceTracker.Infrastructure.ExchangeClients;
+namespace CryptoPriceTracker.Infrastructure.ExchangeClients.Rest;
 
 public sealed class BitgetClient : IRestExchangeClient
 {
